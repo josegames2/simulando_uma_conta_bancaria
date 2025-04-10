@@ -24,7 +24,7 @@ public class Banco {
 
             System.out.println("Olá " + nome +  ", obrigado por criar uma conta em nosso banco, sua agência é " + numeroAgencia + ", conta " + numeroConta + " e seu saldo de : " + saldo + " já está disponível para saque.");
         }else {
-            System.out.println("Olá " + nome +  ", obrigado por criar uma conta em nosso banco, sua agência é " + numeroAgencia + ", conta " + numeroConta + " e seu saldo de " + saldo + " já está disponível para saque.");
+            System.out.println("Olá " + nome +  ", obrigado por criar uma conta em nosso banco, sua agência é " + numeroAgencia + ", conta " + numeroConta + " e seu saldo de " + saldo + "nao está disponível para saque.");
         }
 
 
